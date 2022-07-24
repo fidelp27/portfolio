@@ -1,0 +1,21 @@
+{
+  "name": "asyncplatzi",
+  "version": "1.0.0",
+  "description": "Curso de asincronismo en js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "async"
+  ],
+  "author": "Fidel Parabacuto",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.2.9",
+    "xmlhttprequest": "^1.8.0"
+    
+  },
+  "type": "module"
+}
