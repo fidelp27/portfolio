@@ -11,7 +11,9 @@ const deletePost = (uriApi, id) => {
   return response;
 };
 
-deletePost(`${API}/products`, 211)
+deletePost(`${API}/products`, 3)
   .then((response) => response.json())
   .then((res) => console.log(res))
   .catch((error) => console.log(error));
+
+parent.getElementsByClassName;
