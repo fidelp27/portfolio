@@ -1,8 +1,5 @@
 import { projects } from './data.js';
 
-const API =
-  'https://youtube-v31.p.rapidapi.com/search?channelId=UCw05fUBPwmpu-ehXFMqfdMw&part=snippet%2Cid&order=date&maxResults=9';
-
 const content = null || document.getElementById('content');
 
 let view = `
