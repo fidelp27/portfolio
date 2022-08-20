@@ -4,11 +4,13 @@
   "description": "Curso de asincronismo en js",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d src"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "keywords": [
     "javascript",
-    "async"
+    "async",
+    "react"
   ],
   "author": "Fidel Parabacuto",
   "license": "MIT",
@@ -19,5 +21,6 @@
   "type": "module",
   "devDependencies": {
     "gh-pages": "^4.0.0"
-  }
+  },
+  "homepage": "https://fidelp27.github.io/portfolio"
 }
