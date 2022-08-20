@@ -1,8 +1,17 @@
 const projects = [
   {
+    name: 'ToDo App',
+    description:
+      'To Do App en React utilizando composición de componentes para evitar usar React Context ',
+    img: 'https://i.imgur.com/kT6D28j.png',
+    video: '',
+    uri: 'https://fidelp27.github.io/todocomposition/',
+    skills: 'React, Skeleton, Patrones de render y composición',
+  },
+  {
     name: 'Go Scrum',
     description:
-      'To Do App hecha con React, Redux. Se implementaron varias librerías: SweetAlert2, Skeleton, Formik, UUID, MUI',
+      'To Do App en React con manejo del estado con  Redux. Se implementaron varias librerías: SweetAlert2, Skeleton, Formik, UUID, MUI',
     img: 'https://i.imgur.com/iyk15Ys.png',
     video: '',
     uri: 'https://fidelp27.github.io/goscrumalkemy/#/login',
