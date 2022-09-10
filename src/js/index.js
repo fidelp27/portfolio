@@ -7,6 +7,10 @@ let view = `
       .map(
         (elem) => `
     <a  href="${elem.uri}" class="group relative overscroll-auto hover:overscroll-contain" target="_blank">
+    <h3 class="text-xs text-gray-700 bg-gray-200 rounded-md mb-3 text-center">
+    <span aria-hidden="true" class="absolute inset-0"></span>
+    💡 ${elem.skills}
+  </h3>
     <div
       class="w-full bg-gray-200 aspect-w-1 aspect-h-1 rounded-md overflow-hidden group-hover:opacity-75 lg:aspect-none "
     >

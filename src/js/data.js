@@ -6,7 +6,7 @@ const projects = [
     img: 'https://i.imgur.com/0BrhKvR.png',
     video: '',
     uri: 'https://fidelp27.github.io/softwareacademico/',
-    skills: 'React, Context, mui, axios, ract-toastify, Formik',
+    skills: 'React, Context, MUI, axios, ract-toastify, Formik',
   },
   {
     name: 'ToDo App',
