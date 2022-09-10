@@ -1,5 +1,14 @@
 const projects = [
   {
+    name: 'CRUD gestión de clientes',
+    description:
+      'App que permite crear usuarios, hacer login, crear, modificar, borrar y obtener un listado de clientes.',
+    img: 'https://i.imgur.com/0BrhKvR.png',
+    video: '',
+    uri: 'https://fidelp27.github.io/softwareacademico/',
+    skills: 'React, Context, mui, axios, ract-toastify, Formik',
+  },
+  {
     name: 'ToDo App',
     description:
       'To Do App en React utilizando composición de componentes para evitar usar React Context ',
