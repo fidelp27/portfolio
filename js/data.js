@@ -1,12 +1,12 @@
 const projects = [
   {
-    name: 'CRUD gestión de clientes',
+    name: 'Buscador de perfiles GitHub',
     description:
-      'App que permite crear usuarios, hacer login, crear, modificar, borrar y obtener un listado de clientes.',
-    img: 'https://i.imgur.com/0BrhKvR.png',
+      'App para buscar información de perfiles de GitHub hecha con componentes de la librería MUI',
+    img: 'https://i.imgur.com/dc5LJYF.png',
     video: '',
-    uri: 'https://fidelp27.github.io/softwareacademico/',
-    skills: 'React, Context, MUI, axios, ract-toastify, Formik',
+    uri: 'https://fidelp27.github.io/github-searcher-mui/',
+    skills: 'React, MUI',
   },
   {
     name: 'ToDo App',
