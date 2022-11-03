@@ -1,5 +1,14 @@
 const projects = [
   {
+    name: 'CRUD Tasks',
+    description:
+      'App para crear, leer, editar y eliminar tareas o notas',
+    img: 'https://i.imgur.com/4GEc2jI.png',
+    video: '',
+    uri: 'https://fidelp27.github.io/firebasecrud/',
+    skills: 'JavaScript, Firebase, HTML, Bootstrap',
+  },
+  {
     name: 'Buscador de perfiles GitHub',
     description:
       'App para buscar información de perfiles de GitHub hecha con componentes de la librería MUI',
