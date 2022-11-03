@@ -31,7 +31,7 @@ let view = `
   </a>
     `
       )
-      .slice(0, 8)
+      .slice(0, 9)
       .join('')}
     
     `;
