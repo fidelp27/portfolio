@@ -1,12 +1,11 @@
 const projects = [
   {
     name: 'CRUD Tasks',
-    description:
-      'App para crear, leer, editar y eliminar tareas o notas',
+    description: 'App para crear, leer, editar y eliminar tareas o notas',
     img: 'https://i.imgur.com/4GEc2jI.png',
     video: '',
-    uri: 'https://fidelp27.github.io/firebasecrud/',
-    skills: 'JavaScript, Firebase, HTML, Bootstrap',
+    uri: 'https://sharevideosapp-b95d7.web.app/',
+    skills: 'JavaScript, Firebase, HTML, Bootstrap, deploy firebase',
   },
   {
     name: 'Buscador de perfiles GitHub',
