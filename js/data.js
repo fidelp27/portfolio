@@ -9,7 +9,7 @@ const projects = [
     skills: 'React, CSS, Peticiones HTTP',
   },
   {
-    name: 'Arte+ ',
+    name: 'Arte+ Store',
     description:
       'Proyecto colaborativo hecho con compañeros de Coderhouse. Web responsive para mostrar productos y generar contacto con clientes',
     img: 'https://i.imgur.com/i8ZRKc4.png',
