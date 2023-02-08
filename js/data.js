@@ -1,5 +1,32 @@
 const projects = [
   {
+    name: 'Wild Wave Surf',
+    description:
+      'Proyecto colaborativo hecho con compañeros en la aceleradora de empleos NoCountry. Tienda con plataforma de pago (pay pal)',
+    img: 'https://i.imgur.com/lLQmmkt.png',
+    video: '',
+    uri: 'https://nifty-torvalds-71aefb.netlify.app/',
+    skills: 'React, CSS, Peticiones HTTP',
+  },
+  {
+    name: 'Arte+ ',
+    description:
+      'Proyecto colaborativo hecho con compañeros de Coderhouse. Web responsive para mostrar productos y generar contacto con clientes',
+    img: 'https://i.imgur.com/i8ZRKc4.png',
+    video: '',
+    uri: 'https://gabrielaberdasco.github.io/ArteM-s/index.html',
+    skills: 'HTML, CSS, JS',
+  },
+  {
+    name: 'Go Scrum',
+    description:
+      'To Do App en React con manejo del estado con  Redux. Se implementaron varias librerías: SweetAlert2, Skeleton, Formik, UUID, MUI',
+    img: 'https://i.imgur.com/iyk15Ys.png',
+    video: '',
+    uri: 'https://fidelp27.github.io/goscrumalkemy/#/login',
+    skills: 'React, Redux, Skeleton, Peticiones HTTP, SweetAlert2, Formik',
+  },
+  {
     name: 'CRUD Tasks',
     description: 'App para crear, leer, editar y eliminar tareas o notas',
     img: 'https://i.imgur.com/4GEc2jI.png',
@@ -25,34 +52,6 @@ const projects = [
     uri: 'https://fidelp27.github.io/todocomposition/',
     skills: 'React, Skeleton, Patrones de render y composición',
   },
-  {
-    name: 'Go Scrum',
-    description:
-      'To Do App en React con manejo del estado con  Redux. Se implementaron varias librerías: SweetAlert2, Skeleton, Formik, UUID, MUI',
-    img: 'https://i.imgur.com/iyk15Ys.png',
-    video: '',
-    uri: 'https://fidelp27.github.io/goscrumalkemy/#/login',
-    skills: 'React, Redux, Skeleton, Peticiones HTTP, SweetAlert2, Formik',
-  },
-  {
-    name: 'Wild Wave Surf',
-    description:
-      'Proyecto colaborativo hecho con compañeros en la aceleradora de empleos NoCountry. Tienda con plataforma de pago (pay pal)',
-    img: 'https://i.imgur.com/lLQmmkt.png',
-    video: '',
-    uri: 'https://nifty-torvalds-71aefb.netlify.app/',
-    skills: 'React, CSS, Peticiones HTTP',
-  },
-  {
-    name: 'Arte+ ',
-    description:
-      'Proyecto colaborativo hecho con compañeros de Coderhouse. Web responsive para mostrar productos y generar contacto con clientes',
-    img: 'https://i.imgur.com/i8ZRKc4.png',
-    video: '',
-    uri: 'https://gabrielaberdasco.github.io/ArteM-s/index.html',
-    skills: 'HTML, CSS, JS',
-  },
-
   {
     name: 'Z-Games',
     description:
