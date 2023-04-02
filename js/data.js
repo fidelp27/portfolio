@@ -18,13 +18,13 @@ const projects = [
     skills: 'HTML, CSS, JS',
   },
   {
-    name: 'Go Scrum',
+    name: 'DollAR - Scraping + Bot Telegram',
     description:
-      'To Do App en React con manejo del estado con  Redux. Se implementaron varias librerías: SweetAlert2, Skeleton, Formik, UUID, MUI',
-    img: 'https://i.imgur.com/iyk15Ys.png',
+      'Scraping a una web para tomar los distintos tipo de cambio del dólar en Argentina y enviarlos a un bot de Telegram',
+    img: 'https://i.imgur.com/jfWImHl.jpg',
     video: '',
-    uri: 'https://fidelp27.github.io/goscrumalkemy/#/login',
-    skills: 'React, Redux, Skeleton, Peticiones HTTP, SweetAlert2, Formik',
+    uri: 'https://github.com/fidelp27/dollar_scraping_bot.git',
+    skills: 'Python, Telegram Bot, Scraping, environment variables',
   },
   {
     name: 'CRUD Tasks',
