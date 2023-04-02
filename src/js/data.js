@@ -1,12 +1,12 @@
 const projects = [
   {
-    name: 'Wild Wave Surf',
+    name: 'DollAR - Scraping + Bot Telegram',
     description:
-      'Proyecto colaborativo hecho con compañeros en la aceleradora de empleos NoCountry. Tienda con plataforma de pago (pay pal)',
-    img: 'https://i.imgur.com/lLQmmkt.png',
+      'Scraping a una web para tomar los distintos tipo de cambio del dólar en Argentina y enviarlos a un bot de Telegram',
+    img: 'https://i.imgur.com/jfWImHl.jpg',
     video: '',
-    uri: 'https://nifty-torvalds-71aefb.netlify.app/',
-    skills: 'React, CSS, Peticiones HTTP',
+    uri: 'https://github.com/fidelp27/dollar_scraping_bot.git',
+    skills: 'Python, Telegram Bot, Scraping, environment variables',
   },
   {
     name: 'Arte+ Store',
@@ -18,13 +18,13 @@ const projects = [
     skills: 'HTML, CSS, JS',
   },
   {
-    name: 'DollAR - Scraping + Bot Telegram',
+    name: 'Go Scrum',
     description:
-      'Scraping a una web para tomar los distintos tipo de cambio del dólar en Argentina y enviarlos a un bot de Telegram',
-    img: 'https://i.imgur.com/WFLI4AH.jpg',
+      'To Do App en React con manejo del estado con  Redux. Se implementaron varias librerías: SweetAlert2, Skeleton, Formik, UUID, MUI',
+    img: 'https://i.imgur.com/iyk15Ys.png',
     video: '',
-    uri: 'https://github.com/fidelp27/dollar_scraping_bot.git',
-    skills: 'Python, Telegram Bot, Scraping, environment variables',
+    uri: 'https://fidelp27.github.io/goscrumalkemy/#/login',
+    skills: 'React, Redux, Skeleton, Peticiones HTTP, SweetAlert2, Formik',
   },
   {
     name: 'CRUD Tasks',
