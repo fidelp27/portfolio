@@ -3,7 +3,7 @@ const projects = [
     name: 'DollAR - Scraping + Bot Telegram',
     description:
       'Scraping a una web para tomar los distintos tipo de cambio del dólar en Argentina y enviarlos a un bot de Telegram',
-    img: 'https://i.imgur.com/jfWImHl.jpg',
+    img: 'https://i.imgur.com/WFLI4AH.jpg',
     video: '',
     uri: 'https://github.com/fidelp27/dollar_scraping_bot.git',
     skills: 'Python, Telegram Bot, Scraping, environment variables',
