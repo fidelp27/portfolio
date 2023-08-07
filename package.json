@@ -4,7 +4,8 @@
   "description": "Curso de asincronismo en js",
   "main": "index.js",
   "scripts": {
-    "build": "npm run ci && npm run build"
+    "build": "npm run ci && npm run build",
+    "ci": "npm install"
   },
   "keywords": [
     "javascript",
