@@ -4,7 +4,7 @@
   "description": "Curso de asincronismo en js",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d src"
+    "build": "npm run ci && npm run build"
   },
   "keywords": [
     "javascript",
