@@ -62,11 +62,11 @@ const projects = [
     skills: 'HTML, CSS, JS',
   },
   {
-    name: 'BatataBit',
-    description: 'Sitio web estático para mostrar información de la empresa',
-    img: 'https://i.imgur.com/Zms77gx.png',
+    name: 'Yoga',
+    description: 'Landing page para un estudio de Yoga',
+    img: 'https://i.imgur.com/7bwwK8p.png',
     video: '',
-    uri: 'https://priceless-cray-231fa1.netlify.app/',
+    uri: 'https://fidelp27.github.io/landing-yoga/',
     skills: 'HTML, CSS',
   },
 ];
