@@ -9,13 +9,22 @@ const projects = [
     skills: 'Python, Telegram Bot, Scraping, environment variables',
   },
   {
-    name: 'Arte+ Store',
+    name: 'Little Lemon Reservation',
     description:
-      'Proyecto colaborativo hecho con compañeros de Coderhouse. Web responsive para mostrar productos y generar contacto con clientes',
-    img: 'https://i.imgur.com/i8ZRKc4.png',
+      'Sitema de reservas para restaurante',
+    img: 'https://i.imgur.com/e2m3yxZ.png',
     video: '',
-    uri: 'https://gabrielaberdasco.github.io/ArteM-s/index.html',
-    skills: 'HTML, CSS, JS',
+    uri: 'https://github.com/fidelp27/littlelemon.git',
+    skills: 'Python, Django, Django rest framework',
+  },
+  {
+    name: 'Ecommerce',
+    description:
+      'Ecommerce simple para practicar API calls, manejo de estados, ContextAPI y TypeScript',
+    img: 'https://github.com/fidelp27/smartbuyts.git',
+    video: '',
+    uri: 'git@github.com:fidelp27/littlelemon.git',
+    skills: 'TypeScript, React, ContextAPI, API calls, TailwindCSS',
   },
   {
     name: 'Go Scrum',
@@ -51,15 +60,6 @@ const projects = [
     video: '',
     uri: 'https://fidelp27.github.io/todocomposition/',
     skills: 'React, Skeleton, Patrones de render y composición',
-  },
-  {
-    name: 'Z-Games',
-    description:
-      'Mi primer proyecto hecho con HTML, CSS y JS. Fue el proyecto final del curso de JS en Coderhouse. El código es un desastre pero le tengo cariño ',
-    img: 'https://i.imgur.com/Zw6Ngwv.png',
-    video: '',
-    uri: 'https://pensive-euler-5b02e3.netlify.app/',
-    skills: 'HTML, CSS, JS',
   },
   {
     name: 'Yoga',
