@@ -12,9 +12,9 @@ let view = `
     💡 ${elem.skills}
   </h3>
     <div
-      class="w-full bg-gray-200 aspect-w-1 aspect-h-1 rounded-md overflow-hidden group-hover:opacity-75 lg:aspect-none "
+      class="w-full bg-gray-200 aspect-w-1 aspect-h-1 rounded-md overflow-hidden group-hover:opacity-75 lg:aspect-none"
     >
-      <img src="${elem.img}" alt="${elem.description}" class="w-full h-100" />
+      <img src="${elem.img}" alt="${elem.description}" class="w-full h-64 object-cover lg:w-full lg:h-64" />
     </div>
     <div class="mt-3 flex justify-between">
       <h3 class="text-sm text-gray-900 font-black">

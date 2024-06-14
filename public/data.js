@@ -21,9 +21,9 @@ const projects = [
     name: 'Ecommerce',
     description:
       'Ecommerce simple para practicar API calls, manejo de estados, ContextAPI y TypeScript',
-    img: 'https://github.com/fidelp27/smartbuyts.git',
+    img: 'https://i.imgur.com/d12s5AC.jpg',
     video: '',
-    uri: 'git@github.com:fidelp27/littlelemon.git',
+    uri: 'https://github.com/fidelp27/smartbuyts.git',
     skills: 'TypeScript, React, ContextAPI, API calls, TailwindCSS',
   },
   {
